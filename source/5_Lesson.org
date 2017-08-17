@@ -6,12 +6,12 @@
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil
 
 #+TITLE: Design Project
-#+AUTHOR: Stephen Brown
+#+AUTHOR: Stephen Brown and C. Delport
 
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
-      <a href="https://github.com/stsb11/9-SC-LED">Fork me on GitHub</a>
+      <a href="https://github.com/stcd11/9-SC-LED">Fork me on GitHub</a>
     </div>
   </div>
 <div id="stickyribbon">

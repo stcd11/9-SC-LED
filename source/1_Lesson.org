@@ -6,12 +6,12 @@
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil
 
 #+TITLE: Design Project
-#+AUTHOR: Stephen Brown
+#+AUTHOR: Stephen Brown and C. Delport
 
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
-      <a href="https://github.com/stsb11/9-SC-LED">Fork me on GitHub</a>
+      <a href="https://github.com/stcd11/9-SC-LED">Fork me on GitHub</a>
     </div>
   </div>
 <div id="stickyribbon">
@@ -135,6 +135,10 @@
 :HTML_CONTAINER_CLASS: badge
 :END:
 - Sketch three ideas for the design of your housing. You can always make changes later, so don't fixate on details. This is about articulating your ideas!
+- To complete the badges you will need to click on the link at the bottom and complete the quiz. This will automatically badge your work.
+- *You will need to be logged into [[http://www.bournetolearn.com][www.bournetolearn.com]] to complete the badge.*
+- Click on this link [[https://www.bournetolearn.com/quizzes/y9-indDesign/Lesson_1/][design quiz]]
   - /Silver:/ Three designs drawn.
   - /Gold:/ Includes an indication of dimensions.
   - /Platinum:/ Includes colour/type of materials and specifies techniques (e.g. [[http://en.wikipedia.org/wiki/Finger_joint][finger joints]], type of glue) for making.
+  
