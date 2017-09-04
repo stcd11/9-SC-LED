@@ -91,7 +91,7 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-* Homework Tasks
+* Extension Tasks
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
@@ -104,7 +104,6 @@
 - "Nails can be used to join two pieces of wood together by driving them from one piece of wood into the other with a hammer. 
 - The advantage of using nails is the speed with which the materials can be joined together.
 - A disadvantage of nails is that the wood can split, and that it is easy to hit the wood by accident, marking the surface”
-- Upload your work to the first badge in the homework section on BourneToLearn.com
 
 ** 2. Light It
 :PROPERTIES:
@@ -112,7 +111,6 @@
 :END:
 -  LEDs are everywhere! In our TVs, on electrical items, street lighting and illuminating our homes. 
 - Research the history of the LED, and explain why they’re becoming more popular. 200 words.
-- Upload your work to the second badge in the homework section on BourneToLearn.com
 
 ** 3. Cut or Print It
 :PROPERTIES:
@@ -127,5 +125,5 @@
 
 - Laser cutting, water jet cutting and 3D printing are relatively new technologies. 
 - Research each of them; for each one, write a little about how it works, and what they can be used for. 200 words total.
-- Upload your work to the third badge in the homework section on BourneToLearn.com
+
 

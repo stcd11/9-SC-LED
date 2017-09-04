@@ -128,6 +128,7 @@
 :END:
 - To complete the badges you will need to click on the link at the bottom and complete the quiz. This will automatically badge your work.
 - *You will need to be logged into [[http://www.bournetolearn.com][www.bournetolearn.com]] to complete the badge.*
+- **You will also need to upload the screenshots of your mated parts, along with the quiz for this badge.**
 - Click on this link [[https://www.bournetolearn.com/quizzes/y9-indDesign/Lesson_2/][3D design]]
 - /Silver:/ Design and mate together at least two fully defined parts in an assembly.
 - /Gold:/ Include finger points in your assembled model parts.

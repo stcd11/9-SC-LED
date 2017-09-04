@@ -101,28 +101,16 @@
 - Soldering stripboard isn't much harder than soldering a PCB. 
 - The fundamental technique remains the same as always: Heat up the board and the component leg with the tip of the iron, apply a small amount of solder, then remove the iron. 
 - Because your board consists of long thin strips, it can be easy to apply too much solder to the board, covering up other nearby holes you might need. It doesn't happen as often as you think it will, though!
-** Drill It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: make
-:END:
-- Once your teacher has approved your design start by obtaining a correctly sized piece of stripboard. We tend to use the 3-in-1 machine to trim to size. Your teacher can show you how to use this safely. 
-- Next, drill your holes. *THIS IS THE MOST COMMON AREA TO GET WRONG*
-- In DIYlc, you are seeing your PCB from the component side, *NOT THE SOLDER SIDE*. If on the computer you know you've got a hole to make in the top-left most hole in your stripboard, make sure the non-shiny side is facing up before you walk over to the drill. 
-- Aside from drilling the board inverted, the next most common mistake is using the wrong-sized drill bits. To check bit-size, you can either measure the bit with a caliper, or see which is the smallest hole in the drill-bit storage box the bit will fit into. *Don't assume!*
-- *Tip:* Mark all your holes with a felt-tip pen or a board marker, and double-check them all before you use a drill. 
-- Before moving on, check for...
-    - 4x 1.5mm holes for your LEDs,
-    - 2x 3mm holes for your M3 machine screws,
-    - 2x 2mm holes for strain relief for your PP3 battery snap wire.
 ** Solder It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: make
 :END:
+- Once your teacher has approved your design start by obtaining a correctly sized piece of stripboard. We tend to use the 3-in-1 machine to trim to size. Your teacher can show you how to use this safely. 
+- In DIYlc, you are seeing your PCB from the component side, *NOT THE SOLDER SIDE*. Make sure you are aware of this before placing your components. *The components must go on the side with no tracks.*
 - Solder in your 330 Ohm resistors first. Ensure they're nice and flat to the board, and all the right value. Sometimes, resistors from other drawers get muddled up, so make sure you've got orange, orange, brown,  gold on all of yours. 
 - If you've got them all packed tightly together, you'll almost certainly find that the solder will clump togther on individual rows. This is fine. You've only got a problem if the solder forms a bridge from one row to the row above/below it. 
 - After the resistors, add the PP3 battery clip (remember to use your strain relief holes). You'll need to de-solder the black wire in a future lesson if you're going to keep the battery outside of the case, but don't worry about this now.  
-- Finally, add the LEDs. Start by using long-nose pliers to gently bend the + and - leg down by 90 degrees, so they will fit in the 1.5mm holes you created for them. The + and - are marked on the legs, but are absolutely tiny. You'll need excellent eyesight or a magnifying lens to see them. 
-- Use the tip of a long-nose plier to gently coax each LED leg into its hole. The leg will sit a fraction of a millimeter above the copper on the solder-side of the board when in position. 
+- Finally, add the LEDs. The + and - are marked by the legs, the long leg is positive (+) and the short leg is negative (-). *It is very important that these are correct.*   
 - Solder carefully, ensuring the LED leg is getting heated by the soldering iron as well as the copper board. Don't leave the iron on for too long or you'll burn out your LED. 
 ** Test It
 :PROPERTIES:
