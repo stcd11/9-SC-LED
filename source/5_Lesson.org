@@ -102,7 +102,7 @@
 - You've now created a 3D model, and are the proud owner of a working LED light circuit. 
 - To finish, you'll need to build a cutting sheet from your 3D parts, laser cut them, stick them together and install your PCB. 
 #+BEGIN_HTML
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G94wjQahZqU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e54Kv9vir3w" frameborder="0" allowfullscreen></iframe>
 #+END_HTML
 - Build your cutting sheet, packing all the parts as tightly together as possible. 
 - Remember to turn all the lines red, so that the laser cutter cuts through the material!
