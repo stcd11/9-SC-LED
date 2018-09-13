@@ -123,7 +123,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-[[./img/1w_led.jpg]]
+[[./img/1W_led.jpg]]
 - Your light will use 2x 1W LEDs (shown above magified - they're about 5mm X 10mm x 10mm)
 - The housing must be made from a combination of laser-cut 3mm Plywood and 3mm translucent acrylic.
 - To emphasise the compact nature of LED lighting, your unit should be as small as possible.
