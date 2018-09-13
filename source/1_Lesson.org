@@ -124,10 +124,10 @@
 :HTML_CONTAINER_CLASS: learn
 :END:
 [[./img/1w_led.jpg]]
-- Your light will use 2x 1W LEDs (shown above magified - they're about 3mm X 10mm x 10mm)
-- The housing must be made from a combination of laser-cut 3mm MDF and 3mm translucent acrylic.
+- Your light will use 2x 1W LEDs (shown above magified - they're about 5mm X 10mm x 10mm)
+- The housing must be made from a combination of laser-cut 3mm Plywood and 3mm translucent acrylic.
 - To emphasise the compact nature of LED lighting, your unit should be as small as possible.
-  - It's dimensions must not exceed 35mm X 80mm X 80mm (H x W x D)
+  - It's dimensions must not exceed 40mm X 80mm X 80mm (H x W x D)
 - The circuit must be built on [[http://en.wikipedia.org/wiki/Stripboard][Stripboard]].
 - It should run from a 9V battery, and include a switch to turn the power on and off.
 ** Badge It
