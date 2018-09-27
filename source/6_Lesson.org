@@ -100,32 +100,22 @@
 :HTML_CONTAINER_CLASS: build
 :END:
 - With all your component parts, you can now assemble your finished product. Because of all your hard work, this will be a quick process. 
-[[./img/pwr_switch.png]]
-- The power switch needs to be wired up as per the diagram above. Cut the red wire on the PP3 battery cable about half-way along, and wire strip the two ends of the cut.
-- You can then remove the nut from the front of the switch, pass it through the 6mm hole you've made and put the nut back on to hole the switch in place. Tighten it *gently* with pliers while holding the back of the switch.
-- Solder one to the middle lug of the switch (there's a little hole in it to make this easier)
-- Solder the other end to either of the two remaining lugs. 
-[[./img/switch.jpg]]
-** Protect It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: build
-:END:
-- Diodes only allow current to flow in /One Direction/. They also use up 0.7V of the available voltage in our circuit. This isn't much, but will reduce the amount of voltage going into your circuit and prevent it from getting hot.
-- Cut your black PP3 wire, and solder a rectifier diode in-line, with the gray band facing towards the PP3 battery snap. You can see mine resting on top of the switch in the picture above. 
-- Use spacers (cut them in half with side cutters to reduce their height) on top of the machine screws, then finally place your PCB on top and secure it into place *gently* with a pair of M3 nuts. 
+[[./img/sboard1.jpg]]
+- The power switch needs to be wired up as per the image above. Cut the red wire on the PP3 battery cable about half-way along, and wire strip the two ends of the cut and solder them to the switch as seen in the image.
 - Use PVA glue to stick MDF parts of your housing together.
 - Don't stick the lid down if you're going for an internal battery, otherwise you'll never be able to change it! 
 - PVA glue takes 24 hours to form a full-strength bond, but the body of your lamp should be fine to handle after about an hour. 
+- To avoid scratching your furniture at home, use the countersink tool on the bottom of your base before putting M3x20 countersunk machine screws in.
+- Use 5mm spacers on top of the machine screws, then finally place your PCB on top and secure it into place *gently* with a pair of M3 nuts. 
+[[./img/pcb_spacer.JPG]]
+[[./img/pcb_mounted.JPG]] 
 ** Mount It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: build
 :END:
-- To avoid scratching your furniture at home, use the countersink tool on the bottom of your base before putting M3x20 countersunk machine screws in.
-[[./img/spacers.jpg]]
-- Use spacers (cut them in half with side cutters to reduce their height) on top of the machine screws, then finally place your PCB on top and secure it into place *gently* with a pair of M3 nuts. 
-- Use PVA glue to stick MDF parts of your housing together.
-- Don't stick the lid down if you're going for an internal battery, otherwise you'll never be able to change it! 
-- PVA glue takes 24 hours to form a full-strength bond, but the body of your lamp should be fine to handle after about an hour. 
+- You can then remove the nut from the front of the switch, pass it through the 6mm hole you've made and put the nut back on to hole the switch in place. Tighten it *gently* with pliers while holding the back of the switch.
+[[./img/pcb_nuts.JPG]]
+[[./img/pcb_switch_final.JPG]]
 ** Badge It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
