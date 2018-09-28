@@ -109,6 +109,10 @@
 <br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HIr6I7O42rk?list=PLjwXcI6i_ZJHFMidPPHUNImmMUon14GYg" frameborder="0" allowfullscreen></iframe>
 #+END_HTML
+- To convert your 3D design to 2D design for the lasercutter, watch this video.
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e54Kv9vir3w" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
 ** Design It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: design
