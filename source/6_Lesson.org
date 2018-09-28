@@ -100,7 +100,7 @@
 :HTML_CONTAINER_CLASS: build
 :END:
 - With all your component parts, you can now assemble your finished product. Because of all your hard work, this will be a quick process. 
-[[./img/sboard1.jpg]]
+[[./img/sboard2.jpg]]
 - The power switch needs to be wired up as per the image above. Cut the red wire on the PP3 battery cable about half-way along, and wire strip the two ends of the cut and solder them to the switch as seen in the image.
 - Use PVA glue to stick MDF parts of your housing together.
 - Don't stick the lid down if you're going for an internal battery, otherwise you'll never be able to change it! 

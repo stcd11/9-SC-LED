@@ -92,7 +92,7 @@
 :END:
 
 * Circuit Design
-[[./img/sboard1.jpg]]
+[[./img/sboard2.jpg]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
